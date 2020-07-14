@@ -10,6 +10,6 @@ integração com javascript
 css para estilizar o site
 
 Tecnologias utilizadas
-HTML
-CSS
-JavaScript
+//HTML
+//CSS
+//JavaScript
